@@ -70,7 +70,7 @@ This codebase accompanies the *From Social Brains to Agent Societies* series:
 2. [Incentives](https://sphelps.substack.com/p/from-social-brains-to-agent-societies-35a)
 3. [Identity and Reputation](https://sphelps.substack.com/p/from-social-brains-to-agent-societies-9f6)
 4. [Principal-Agent Architecture](https://sphelps.substack.com/p/from-social-brains-to-agent-societies-39f) — introduces this codebase
-5. The Evidence Changes the Narrative — experimental results (forthcoming)
+5. [The Evidence Changes the Narrative](https://sphelps.substack.com/p/from-social-brains-to-agent-societies-647) - results from experiment 1
 
 ## Project structure
 
